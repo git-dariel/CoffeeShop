@@ -1,0 +1,13 @@
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe.config
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.pdb
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csproj.AssemblyReference.cache
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.CoffeeShop.resources
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csproj.GenerateResource.cache
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.exe
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.pdb
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Login.resources
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Register.resources
+C:\Users\Dariel\Documents\VsCode-CSharp\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.HomePage.resources
